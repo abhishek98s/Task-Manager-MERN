@@ -1,0 +1,21 @@
+{
+  "name": "task-manager-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server1/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek98s/Task-Manager-MERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek98s/Task-Manager-MERN/issues"
+  },
+  "homepage": "https://github.com/abhishek98s/Task-Manager-MERN#readme"
+}
